@@ -181,6 +181,12 @@ section{
 .section-title{
     text-align: center;
     font-size: 4rem;
+    font-weight: 500;
+}
+.section-sub-title
+{
+    text-align: center;
+    font-size: 1rem;
     font-weight: 600;
     margin-bottom: 3rem;
 }
