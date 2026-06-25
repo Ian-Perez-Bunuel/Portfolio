@@ -119,6 +119,14 @@ section{
     font-weight: 500;
     opacity: 0.8;
 }
+.info-box h4{
+    font-size: 1.3rem;
+    font-weight: 600;
+    gap: 1.2rem;
+}
+.info-box ul li {
+    margin-bottom: 15px;
+}
 .info-box h1{
     font-size: 3rem;
     font-weight: 600;
@@ -285,6 +293,9 @@ section{
     color: rgb(36, 36, 36);
 }
 .project-card h3{
+    background: linear-gradient(to right, rgb(255, 0, 255), rgb(0, 157, 255));
+    background-clip: text;
+    color: transparent;
     font-size: 2rem;
     font-weight: 500;
 }
